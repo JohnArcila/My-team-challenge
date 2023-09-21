@@ -11,23 +11,10 @@
     <a href="https://johnarcila.github.io/My-team-challenge/">
       Demo
     </a>
-    <a href="https://devchallenges.io/challenges/hhmesazsqgKXrTkYkt0U">
-      Challenge
-    </a>
+     
   </h3>
 </div>
 
-<!-- TABLE OF CONTENTS -->
-
-## Table of Contents
-
-- [Overview](#overview)
-  - [Built With](#built-with)
-- [Features](#features)
-- [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
-
-<!-- OVERVIEW -->
 
 ## Overview
 
@@ -35,10 +22,6 @@
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
 
 
 ### Built With
